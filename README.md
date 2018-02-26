@@ -1,3 +1,3 @@
-# hello-world
+# Rayse-Academy Analytics
 
-Data Mining Project Repository
+This repository contains the code used for all the analytical work dedicated to developing the Rayse platform. 
